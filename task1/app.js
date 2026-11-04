@@ -1,7 +1,7 @@
 var AVATAR = "https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=0";
 var LOOK = {
   f: "&earringsProbability=100&hairAccessoriesProbability=100&beardProbability=0",
-  m: "&earringsProbability=0&hairAccessoriesProbability=0&beardProbability=0",
+  m: "&earringsProbability=0&hairAccessoriesProbability=0&beardProbability=5",
 };
 
 function avatar(g) {
